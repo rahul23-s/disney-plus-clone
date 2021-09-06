@@ -1,6 +1,6 @@
 # disney-plus-clone
 This is a Disney Plus Clone made using React.
-# [Open The Live Project](disneyplus-clone-e429d.web.app)  
+# [Open The Live Project](https://disneyplus-clone-e429d.web.app)  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
